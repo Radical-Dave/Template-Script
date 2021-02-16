@@ -1,2 +1,2 @@
-# Template
-Description
+# Template-Script
+@@description@@
